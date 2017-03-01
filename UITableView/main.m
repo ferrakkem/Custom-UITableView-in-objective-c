@@ -2,7 +2,7 @@
 //  main.m
 //  UITableView
 //
-//  Created by Btrac on 3/1/17.
+//  Created by Ferrakkem on 3/1/17.
 //  Copyright © 2017 Ferrakkem. All rights reserved.
 //
 
